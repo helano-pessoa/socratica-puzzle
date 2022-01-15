@@ -1,7 +1,7 @@
 # socratica-puzzle
 
 
-*There are 64 ways to combine 1, 1/2, 1/3, 1/4, 1/5, 1/6 by adding and subtracting. How close to zero can you get?* I got this from [Socratica](https://www.socratica.com/). The description above is available [here](https://www.instagram.com/p/CSJ-GBlqU_A/).
+*There are 64 ways to combine $1, \frac{1}{2}, \frac{1}{3}, \frac{1}{4}, \frac{1}{5}, \frac{1}{6}$ by adding and subtracting. How close to zero can you get?* I got this from [Socratica](https://www.socratica.com/). The description above is available [here](https://www.instagram.com/p/CSJ-GBlqU_A/).
 
 The puzzle was formulated as an optimization problem which objective is to minimize the sum of the coefficients multiplied by the variable `x` which can take ​​-1 or 1. In addition, this sum must be greater than or equal to zero.
 
