@@ -1,0 +1,17 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/Manifest.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs e config local
+.vscode/
+.idea/
+.github/
+
+# SO
+.DS_Store
+Thumbs.db
