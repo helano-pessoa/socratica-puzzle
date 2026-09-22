@@ -1,8 +1,8 @@
-## Estado da revisão ORKit — 22/09/2026
+## Estado da revisão — 22/09/2026
 
 Estudo anterior em Julia/JuMP/Cbc, baseado em um desafio da Socratica com atribuição preservada. O notebook correto está em [Puzzle.ipynb](Puzzle.ipynb), e o modelo em [puzzle.jl](puzzle.jl). O código não foi reexecutado nesta revisão.
 
-Serve como registro de aprendizagem. Os puzzles novos do ORKit terão enunciados e dados próprios; este desafio não será vendido como criação original.
+Serve como registro de aprendizagem. Qualquer puzzle novo deverá ter enunciado e dados próprios; este desafio não será vendido como criação original.
 
 
 # socratica-puzzle
